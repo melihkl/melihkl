@@ -7,10 +7,21 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=melihkl&show_icons=true&count_private=true" alt="Melih Kale's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihkl&layout=compact" />
+
+</p>
+
+
+
+## 📚 My Medium Account
+ <a href="https://medium.com/@mlhkl" target="blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@mlhkl" />
+  </a>
+
+
