@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
 ## 📚 My Medium Account
  <a href="https://medium.com/@mlhkl" target="blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@mlhkl" />
